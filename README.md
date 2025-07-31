@@ -133,4 +133,4 @@ MIT – Free for personal and commercial use.
 
 ## ✨ Author
 
-Made with ❤️ by [Jay Prakash Valecha](https://ww.github.com/JPV2207)
+Made with ❤️ by [Jay Prakash Valecha](https://github.com/JPV2207)
